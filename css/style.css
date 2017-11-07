@@ -6,7 +6,29 @@
 
 
 /* Section CSS */
+.col-sm-12 {
+    background: pink;
+}
 
+.col-sm-6 {
+    background: violet;
+}
+
+.col-sm-2 {
+    background: lightgrey;
+}
+
+.col-sm-8 {
+    background: lightblue;
+}
+
+.col-sm-4 {
+    background: lightgreen;
+}
+
+.col-sm-10 {
+    background: yellow;
+}
 
 
 /* About Section CSS */
